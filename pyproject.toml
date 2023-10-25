@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "upr-k-backend"
+version = "0.1.0"
+description = "Backend of UPR-K"
+authors = ["Rafael Martinez Estevez <malayibiri@gmail.com>"]
+license = "GNU"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+django = "4.2.6"
+sqlparse = "0.4.4"
+tzdata = "2023.3"
+asgiref = "3.7.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
