@@ -5,7 +5,8 @@ description = "Backend of UPR-K"
 authors = [
     "Rafael Martinez Estevez <malayibiri@gmail.com>",
     "Sergio Perez Reyes",
-    "LázaroHernándezPérez<lhdezp0211@gmail.com>"
+    "LázaroHernándezPérez<lhdezp0211@gmail.com>",
+    "Javier Valladares Alonso<valladaresalonsojavieres@gmail.com>"
 ]
 license = "GNU"
 readme = "README.md"
