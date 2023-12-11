@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'personaje',
-    'proyecto'
+    'proyecto',
+    'evento',
 ]
 
 MIDDLEWARE = [
